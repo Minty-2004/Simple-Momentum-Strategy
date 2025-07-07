@@ -78,6 +78,7 @@ This project was created as the first step of my journey into Financial Analysis
 Student at King's College London, University of London. Studying Mathematics with Management and Finance   
 Graduating: Summer 2026  
 [LinkedIn Profile](www.linkedin.com/in/muntasir-shahzad) | [Email](muntasir.s.2004@gmail.com)
+
 Please don't hesitate to contact me if you have any questions, suggestions, or otherwise
 
 ---
