@@ -24,6 +24,7 @@ This project implements and backtests a **simple momentum trading strategy** usi
 - `numpy` for numerical calculations
 - `matplotlib` for data visualisation
 - `yfinance` for downloading historical stock data
+- `datetime` for selecting time frames
 
 ---
 
