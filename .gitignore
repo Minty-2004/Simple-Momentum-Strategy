@@ -21,4 +21,4 @@ Thumbs.db
 *.jpg
 
 # Environment config files (if any)
-.venv
+.env
