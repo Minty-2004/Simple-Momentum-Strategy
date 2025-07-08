@@ -42,7 +42,7 @@ This allows visual and quantitative evaluation of the strategy's performance aga
 ## How to Run
 
 1. Clone this repository
-2. Install dependencies
+2. Install dependencies (see requirements.txt)
 3. Run the script (main.py)
 
 ---
